@@ -1,0 +1,16 @@
+# Upload code
+```
+git config --global user.name "tjut3L"
+git config --global user.email "luyu@email.tjut.edu.cn"
+git init
+git add *
+git commit -m "first commit"
+git branch -m main
+git config user.name "tjut3L"
+git config user.email "luyu@email.tjut.edu.cn"
+git config http.proxy 127.0.0.1:7897
+git config http.version HTTP/2
+git remote add origin https://github.com/tjut3L/Continuous-Test-Time-Adaptation.git
+git push -u origin main
+```
+解决github push failed问题（remote: Permission to userA/repo.git denied to userB）:参考https://blog.csdn.net/weixin_38214171/article/details/95080746
