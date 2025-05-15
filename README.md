@@ -7,6 +7,7 @@ Welcome to the digital home of tjut3L, a research group dedicated to advancing t
 - <a name="todo"></a>Continual Learning: Developing algorithms that enable machines to learn from a continuous stream of data without forgetting previously learned information.
 - <a name="todo"></a>Adversarial Robustness: Enhancing the security of AI systems by improving their resilience against adversarial examples and attacks.
 
+<!--
 🌱 Projects and Contributions
 
 We host projects formally disclosed in our academic papers here. Each repository provides comprehensive README files where you can explore:
